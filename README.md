@@ -15,6 +15,22 @@ Author: Deitel
 ## Assignments:
 
 
+1.[Total Purchase]: (https://github.com/ladycharliy/C-Assignments/blob/master/Total%20Purchase.cpp)
+
+2.[Kinetic Energy]: (https://github.com/ladycharliy/C-Assignments/blob/master/Kinetic%20Energy.cpp)
+
+3.[Math Tutor]: (https://github.com/ladycharliy/C-Assignments/blob/master/Math%20Tutor.cpp)
+
+4.[Hotel Occupancy]: (https://github.com/ladycharliy/C-Assignments/blob/master/Hotel%20Occupancy.cpp)
+
+5.[Number Analysis]: (https://github.com/ladycharliy/C-Assignments/blob/master/Number%20Analysis.cpp)
+
+
+
+
+
+
+
 <h3><b>1. Total Purchase:</b></h3>
 
 <h4>Assignment Directons:</h4>
