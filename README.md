@@ -15,15 +15,15 @@ Author: Deitel
 ## Assignments:
 
 
-1.[Total Purchase]: (https://github.com/ladycharliy/C-Assignments/blob/master/Total%20Purchase.cpp)
+1.[Total Purchase](https://github.com/ladycharliy/C-Assignments/blob/master/Total%20Purchase.cpp)
 
-2.[Kinetic Energy]: (https://github.com/ladycharliy/C-Assignments/blob/master/Kinetic%20Energy.cpp)
+2.[Kinetic Energy](https://github.com/ladycharliy/C-Assignments/blob/master/Kinetic%20Energy.cpp)
 
-3.[Math Tutor]: (https://github.com/ladycharliy/C-Assignments/blob/master/Math%20Tutor.cpp)
+3.[Math Tutor](https://github.com/ladycharliy/C-Assignments/blob/master/Math%20Tutor.cpp)
 
-4.[Hotel Occupancy]: (https://github.com/ladycharliy/C-Assignments/blob/master/Hotel%20Occupancy.cpp)
+4.[Hotel Occupancy](https://github.com/ladycharliy/C-Assignments/blob/master/Hotel%20Occupancy.cpp)
 
-5.[Number Analysis]: (https://github.com/ladycharliy/C-Assignments/blob/master/Number%20Analysis.cpp)
+5.[Number Analysis](https://github.com/ladycharliy/C-Assignments/blob/master/Number%20Analysis.cpp)
 
 
 
